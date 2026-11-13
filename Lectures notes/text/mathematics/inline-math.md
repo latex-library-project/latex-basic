@@ -59,4 +59,9 @@ x^2 + y^2 = z^2
 \end{document}
 ```
 
-Để có thể viết toán học ở một dòng riêng biệt, ta sẽ chuyển sang bài học [display math](/Lectures%20notes/text/mathematics/display-math.md)
+Kết quả hiện thị trong trang tài liệu: 
+
+Phương trình định lý Pythagoras: $x^2 + y^2 = z^2$ 
+
+
+Để có thể viết toán học ở một dòng riêng biệt, ta sẽ chuyển sang bài học [display math](/Lectures%20notes/text/mathematics/display-math.md). 

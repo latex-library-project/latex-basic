@@ -1,0 +1,1 @@
+LaTeX rất hạn chế người dùng trong việc soạn thảo bằng điện thoại. Chỉ phù hợp với máy tính bảng, máy tính xách tay. 
