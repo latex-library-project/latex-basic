@@ -20,6 +20,12 @@ Viết văn bản là ngôn ngữ tiếng Việt hoặc các ngôn ngữ khác t
 
 In đậm, in nghiêng, gạch chân dưới (underline), gạch giữa chữ (...)
 
+Văn bản có màu
+
+Căn chỉnh văn bản (trái (mặc định), phải, giữa).
+
+Khoảng cách các từ, đoạn văn bản. 
+
 Danh sách (có/ko thứ tự)
 
 ### Văn bản toán học: 
@@ -30,6 +36,8 @@ Viết công thức toán học
 
 Hình ảnh
 
-Bảng
+Bảng 
+
+Liên kết (trực/gián tiếp)
 
 Tài liệu tham khảo
