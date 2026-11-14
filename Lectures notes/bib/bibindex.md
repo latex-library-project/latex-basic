@@ -170,8 +170,10 @@ Ví dụ:
 \end{document}
 ```
 
+---
+
 ### Tài liệu tham khảo: 
 
 \[1]: https://www.overleaf.com/learn/latex/Bibliography_management_with_bibtex 
 
-\[2]: https://en.wikibooks.org/wiki/LaTeX/Bibliography_Managements
+\[2]: https://en.wikibooks.org/wiki/LaTeX/Bibliography_Managements 
